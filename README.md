@@ -38,12 +38,11 @@ It includes:
 1. User inputs:
    - Player name
    - Season
-
+     
 2. The program:
    - Finds the player ID using NBA API
    - Retrieves shot data
-   - Processes the data into a DataFrame
-
+   
 3. Outputs:
    - Shot chart (makes vs misses)
    - Shot efficiency map (FG% by location)
@@ -51,9 +50,9 @@ It includes:
 ---
 
 ## Future Improvements
-Add interactive dashboard (Streamlit)
-Compare multiple players
-Add filtering by shot zone or game situation
-Improve visual styling (NBA-style charts)
+- Add interactive dashboard (Streamlit)
+- Compare multiple players
+- Add filtering by shot zone or game situation
+- Improve visual styling (NBA-style charts)
 
 Created by Rick A.
