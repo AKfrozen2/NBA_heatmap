@@ -1,4 +1,4 @@
-# NBA_heatmap
+# NBA Heatmap
 
 This project uses Python to analyze NBA player shot data and generate visualizations including shot charts and shot efficiency maps.
 
